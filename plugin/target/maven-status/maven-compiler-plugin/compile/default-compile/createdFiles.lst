@@ -1,0 +1,17 @@
+org/beacon/netapp/plugin/TopologyForwarder.class
+org/beacon/netapp/plugin/model/Link.class
+org/beacon/netapp/plugin/WebhookHandler.class
+org/beacon/netapp/plugin/model/Alert$InstantSerializer.class
+org/beacon/netapp/plugin/AlarmForwarder$1.class
+org/beacon/netapp/plugin/shell/StatsCommand.class
+org/beacon/netapp/plugin/WebhookHandlerImpl.class
+org/beacon/netapp/plugin/ApiClient$1.class
+org/beacon/netapp/plugin/EventConfExtension.class
+org/beacon/netapp/plugin/AlarmForwarder.class
+org/beacon/netapp/plugin/shell/TopologyCommand.class
+org/beacon/netapp/plugin/model/Alert$Status$Serializer.class
+org/beacon/netapp/plugin/ApiClient.class
+org/beacon/netapp/plugin/model/Alert$Status.class
+org/beacon/netapp/plugin/TopologyForwarder$1.class
+org/beacon/netapp/plugin/model/Topology.class
+org/beacon/netapp/plugin/model/Alert.class

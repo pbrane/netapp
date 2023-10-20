@@ -1,0 +1,4 @@
+/usr/src/plugin/opennms-netapp-plugin/plugin/src/test/java/org/beacon/netapp/plugin/AlarmForwarderIT.java
+/usr/src/plugin/opennms-netapp-plugin/plugin/src/test/java/org/beacon/netapp/plugin/AlertTest.java
+/usr/src/plugin/opennms-netapp-plugin/plugin/src/test/java/org/beacon/netapp/plugin/AlarmForwarderTest.java
+/usr/src/plugin/opennms-netapp-plugin/plugin/src/test/java/org/beacon/netapp/plugin/TopologyTest.java
